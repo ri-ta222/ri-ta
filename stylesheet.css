@@ -1,0 +1,19 @@
+h1 {
+    color: #554231;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.container {
+    width: 1170px;
+    padding: 50px;
+}
+body {
+    background-image: url(../zhen-hu-dO5quaqAYg0-unsplash.jpg);
+    background-size: cover;
+    background-color: rgba(255,255,255,0.1);
+}
+.container img {
+    widows: 1100px;
+    height: 570px;
+}
