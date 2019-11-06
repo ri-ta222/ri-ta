@@ -23,8 +23,12 @@ body {
 }
 
 @media(max-width:670px )
+
 .container h1 {
     color: light brown;
+}
+.container img {
+    text-align: center;
 }
 body::befotre {
     content: "";
