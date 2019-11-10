@@ -22,7 +22,7 @@ body {
     height: 570px;
 }
 
-@media(max-width:670px )
+@media screen and ( max-width:670px )
 
 .container h1 {
     color: light brown;
