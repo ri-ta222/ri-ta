@@ -21,5 +21,3 @@ body {
     widows: 1100px;
     height: 570px;
 }
-
-@import url('mobile.css') screen and (max-width: 670px);
