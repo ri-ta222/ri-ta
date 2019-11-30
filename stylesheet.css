@@ -21,25 +21,3 @@ body {
     widows: 1100px;
     height: 570px;
 }
-
-@media(max-width:670px )
-
-.container h1 {
-    color: light brown;
-}
-.container img {
-    text-align: center;
-}
-body::befotre {
-    content: "";
-    background: url(./images/green.jpg) no-repeat center center;
-    background-size: cover;
-    display: block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-    transform: translateZ(0);
-}
